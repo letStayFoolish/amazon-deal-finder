@@ -12,7 +12,7 @@
 <hr>
 
 ## Screenshots
-<img src="./src/images/Screen.png" width="100%">
+<img src="./src/images/screen.png" width="100%">
 <hr>
 
 ## Technologies Used
